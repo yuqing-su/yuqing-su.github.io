@@ -7,7 +7,7 @@ title: Yuqing Su # Website name
 baseURL: 'https://yuqing-su.github.io/' # Website URL
 
 ############################
-## LANGUAGE
+## LANGUAGEbaseURL: "https://yuqing-su.github.io/"
 ############################
 
 defaultContentLanguage: en
