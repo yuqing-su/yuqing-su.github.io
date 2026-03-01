@@ -26,7 +26,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-  Hi, I'm Yuqing Su, a senior undergraduate student at [Wuhan University](https://whu.edu.cn), majoring in Information and Computational Science. I have strong interests in embodied AI, large language models, and computational neuroscience. I'm also passionate about building a versatile robot that can work on Mars 🚀 to help humanity reach the Red Planet. In September 2026, I will join Professor [Feng Zheng's research group](https://faculty.sustech.edu.cn/fengzheng/) at Southern University of Science and Technology, where I'll dive deeper into computer vision and embodied AI, persuing my master degree. If you're interested in connecting, please email me at yuqingsu@whu.edu.cn.
+  Hi, I'm Yuqing Su, a senior undergraduate student at [Wuhan University](https://whu.edu.cn), majoring in Mathematics. I have strong interests in embodied AI, large language models, and computational neuroscience. I'm also passionate about building a versatile robot that can work on Mars 🚀 to help humanity reach the Red Planet. In September 2026, I will join Professor [Feng Zheng's research group](https://faculty.sustech.edu.cn/fengzheng/) at Southern University of Science and Technology, where I'll dive deeper into computer vision and embodied AI, persuing my master degree. If you're interested in connecting, please email me at yuqingsu@whu.edu.cn.
 
 # Interests to show in About widget
 interests:
