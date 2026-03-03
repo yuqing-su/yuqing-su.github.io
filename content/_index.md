@@ -185,6 +185,16 @@ sections:
           date_start: '2024-01-01'
           date_end: '2025-06-01'
           description: Under the supervision of [Prof. Lin Zang](https://pole.whu.edu.cn/cn/gb_user.php?id=24&modid=08001) and [Prof. Feiyue Mao](https://jszy.whu.edu.cn/maofeiyue/zh_CN/index.htm), I addressed discontinuities in atmospheric pollutant remote sensing caused by cloud occlusion by developing a hybrid machine learning and physical adjustment framework. This approach overcame critical technical bottlenecks in multi-source heterogeneous data fusion and all-weather high-precision retrieval, yielding seamless, gap-free hourly datasets of PM<sub>2.5</sub>, O<sub>3</sub> and NO<sub>2</sub> across diurnal cycles. Leveraging these datasets, we analyzed recent trends in pollutant concentrations and their underlying drivers. The findings have been published in *IEEE Transactions on Geoscience and Remote Sensing* and *Atmospheric Environment*, among other peer-reviewed journals.
+        
+        - title: International Summer Exchange Program
+          company: University of Cambridge
+          company_url: 'https://www.cam.ac.uk/'
+          company_logo: cam-logo
+          location: Cambridge
+          date_start: '2023-07-01'
+          date_end: '2023-08-01'
+          description: During the "Frontiers in Computational Neuroscience" lecture series jointly organized by the University of Cambridge and Wuhan University, I gained in-depth knowledge of brain science, focusing on visual perception and neural networks. As the team leader, I spearheaded a project to develop a neural network based on Poisson spiking neurons and conducted rigorous parametric testing. Beyond the lab, I fully immersed myself in British culture by attending a traditional Cambridge formal dinner and Sunday Mass, as well as exploring cities like London and Ely. This international experience left a profound and lasting impression on me.
+
     design:
       columns: '2'
   # - block: accomplishments
